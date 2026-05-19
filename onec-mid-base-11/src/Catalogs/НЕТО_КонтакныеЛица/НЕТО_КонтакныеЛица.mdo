@@ -10,7 +10,7 @@
   <name>НЕТО_КонтакныеЛица</name>
   <synonym>
     <key>ru</key>
-    <value>НЕТО контакные лица</value>
+    <value>Контакные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.НЕТО_КонтакныеЛица.StandardAttribute.Code</inputByString>
